@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tural\\Desktop\\Task1\\Task_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D73D4F4-BA30-4F16-8FE4-B4A9449A3A07}|Task_1\\Task_1.csproj|c:\\users\\tural\\desktop\\task1\\task_1\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D73D4F4-BA30-4F16-8FE4-B4A9449A3A07}|Task_1\\Task_1.csproj|solutionrelative:task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tural\\Desktop\\Task1\\Task_1\\Task_1\\Program.cs",
+              "RelativeDocumentMoniker": "Task_1\\Program.cs",
+              "ToolTip": "C:\\Users\\Tural\\Desktop\\Task1\\Task_1\\Task_1\\Program.cs",
+              "RelativeToolTip": "Task_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:12:37.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
